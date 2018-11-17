@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dailychallenge_id: 1
+  user_id: 1
+  date: 2018-11-17 17:45:45
+  status: 1
+  additional_value: 1
+  post_url: MyString
+
+two:
+  dailychallenge_id: 1
+  user_id: 1
+  date: 2018-11-17 17:45:45
+  status: 1
+  additional_value: 1
+  post_url: MyString
